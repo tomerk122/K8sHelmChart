@@ -24,4 +24,4 @@ The minikube service command will automatically open a browser window with the s
 
 You can also get the service URL without launching the browser:
 
-This will print the URL that you can use to access your NGINX deployment.
+This will print the URL that you can use to access your NGINX deployment.# K8sHelmChart
